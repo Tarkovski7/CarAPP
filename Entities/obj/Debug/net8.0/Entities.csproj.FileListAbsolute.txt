@@ -1,0 +1,11 @@
+C:\Users\trkbg\Documents\Projelerim\CarAPP\Entities\bin\Debug\net8.0\Entities.deps.json
+c:\Users\trkbg\Documents\Projelerim\CarAPP\Entities\bin\Debug\net8.0\Entities.dll
+c:\Users\trkbg\Documents\Projelerim\CarAPP\Entities\bin\Debug\net8.0\Entities.pdb
+c:\Users\trkbg\Documents\Projelerim\CarAPP\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\trkbg\Documents\Projelerim\CarAPP\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+c:\Users\trkbg\Documents\Projelerim\CarAPP\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+c:\Users\trkbg\Documents\Projelerim\CarAPP\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+c:\Users\trkbg\Documents\Projelerim\CarAPP\Entities\obj\Debug\net8.0\Entities.dll
+c:\Users\trkbg\Documents\Projelerim\CarAPP\Entities\obj\Debug\net8.0\refint\Entities.dll
+c:\Users\trkbg\Documents\Projelerim\CarAPP\Entities\obj\Debug\net8.0\Entities.pdb
+C:\Users\trkbg\Documents\Projelerim\CarAPP\Entities\obj\Debug\net8.0\ref\Entities.dll
