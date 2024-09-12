@@ -80,19 +80,19 @@ namespace DataAccess.SeedDatas
 
                 // Type ID'sini al
                 var typeId = context.Types.FirstOrDefault(t => t.Name == "Sedan")?.Id;
-                 if (modelId != null && typeId != null)
-                {
-                    if (!context.ModelTypes.Any(mt => mt.ModelId == modelId && mt.TypeId == typeId))
-                    {
-                        var modelType = new ModelType
-                        {
-                            ModelId = modelId.Value,
-                            TypeId = typeId.Value
-                        };
-                        context.ModelTypes.Add(modelType);
-                        context.SaveChanges();
-                    }
-                }
+                //  if (modelId != null && typeId != null)
+                // {
+                //     if (!context.ModelTypes.Any(mt => mt.ModelId == modelId && mt.TypeId == typeId))
+                //     {
+                //         var modelType = new ModelType
+                //         {
+                //             ModelId = modelId.Value,
+                //             TypeId = typeId.Value
+                //         };
+                //         context.ModelTypes.Add(modelType);
+                //         context.SaveChanges();
+                //     }
+                // }
 
                 // 5. Cars tablosuna veri ekleme (Car, BrandId, ModelId, SeriId, TypeId ile ilişkili)
                 if (brandId != null && modelId != null && seriId != null && typeId != null)
