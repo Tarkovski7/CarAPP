@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\Business\\Business.csproj": {}
+    "C:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\Business\\Business.csproj": {}
   },
   "projects": {
-    "c:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\Business\\Business.csproj": {
+    "C:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "c:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\trkbg\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\Business\\obj\\",
+        "outputPath": "C:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\trkbg\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -88,8 +88,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "c:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\Entities\\Entities.csproj": {
-                "projectPath": "c:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\Entities\\Entities.csproj"
+              "C:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\Entities\\Entities.csproj"
               }
             }
           }
@@ -142,14 +142,14 @@
         }
       }
     },
-    "c:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\Entities\\Entities.csproj": {
+    "C:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "c:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\trkbg\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\trkbg\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\Core\\Core.csproj": {}
+    "C:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\Core\\Core.csproj": {}
   },
   "projects": {
-    "c:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\Core\\Core.csproj": {
+    "C:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "c:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\trkbg\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\Core\\obj\\",
+        "outputPath": "C:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\trkbg\\AppData\\Roaming\\NuGet\\NuGet.Config"
