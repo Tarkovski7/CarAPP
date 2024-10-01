@@ -9,3 +9,4 @@ c:\Users\trkbg\Documents\Projelerim\CarAPP\Entities\obj\Debug\net8.0\Entities.dl
 c:\Users\trkbg\Documents\Projelerim\CarAPP\Entities\obj\Debug\net8.0\refint\Entities.dll
 c:\Users\trkbg\Documents\Projelerim\CarAPP\Entities\obj\Debug\net8.0\Entities.pdb
 C:\Users\trkbg\Documents\Projelerim\CarAPP\Entities\obj\Debug\net8.0\ref\Entities.dll
+c:\Users\trkbg\Documents\Projelerim\CarAPP\Entities\obj\Debug\net8.0\Entities.sourcelink.json

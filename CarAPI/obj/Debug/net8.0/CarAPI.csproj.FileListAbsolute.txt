@@ -139,3 +139,6 @@ c:\Users\trkbg\Documents\Projelerim\CarAPP\CarAPI\bin\Debug\net8.0\DataAccess.dl
 c:\Users\trkbg\Documents\Projelerim\CarAPP\CarAPI\bin\Debug\net8.0\Entities.dll
 c:\Users\trkbg\Documents\Projelerim\CarAPP\CarAPI\bin\Debug\net8.0\DataAccess.pdb
 c:\Users\trkbg\Documents\Projelerim\CarAPP\CarAPI\bin\Debug\net8.0\Entities.pdb
+c:\Users\trkbg\Documents\Projelerim\CarAPP\CarAPI\obj\Debug\net8.0\CarAPI.sourcelink.json
+C:\Users\trkbg\Documents\Projelerim\CarAPP\CarAPI\bin\Debug\net8.0\Business.dll
+C:\Users\trkbg\Documents\Projelerim\CarAPP\CarAPI\bin\Debug\net8.0\Business.pdb

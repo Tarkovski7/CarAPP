@@ -9,7 +9,8 @@ using Microsoft.EntityFrameworkCore;
 
 namespace DataAccess.Repositories.Concrete
 {
-    public class BaseRepository<T> : IRepository<T> where T : class
+    public class BaseRepository<T> : IRepository<T>
+        where T : class
     {
         private readonly CarDBContext _context;
 
@@ -17,7 +18,7 @@ namespace DataAccess.Repositories.Concrete
         {
             _context = context;
         }
-        
+
         public DbSet<T> Table => _context.Set<T>();
 
         public async Task AddAsync(T entity)
@@ -32,6 +33,10 @@ namespace DataAccess.Repositories.Concrete
 
         public async Task<IEnumerable<T>> GetAllAsync(Expression<Func<T, bool>> filter = null)
         {
+            if (filter == null)
+            {
+                return await Table.ToListAsync(); // Tüm kayıtları döndür
+            }
             return await Table.Where(filter).ToListAsync();
         }
 

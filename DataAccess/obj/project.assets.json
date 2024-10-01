@@ -4127,11 +4127,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "c:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\DataAccess\\DataAccess.csproj",
+      "projectPath": "C:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\trkbg\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\trkbg\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -4199,5 +4199,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Paket güvenlik açığı verileri alınırken hata oluştu: Bilinen böyle bir ana bilgisayar yok. (api.nuget.org:443)"
+    }
+  ]
 }

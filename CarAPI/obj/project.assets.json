@@ -1609,6 +1609,19 @@
           }
         }
       },
+      "Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "DataAccess": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Business.dll": {}
+        }
+      },
       "DataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -4570,6 +4583,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "Business/1.0.0": {
+      "type": "project",
+      "path": "../Business/Business.csproj",
+      "msbuildProject": "../Business/Business.csproj"
+    },
     "DataAccess/1.0.0": {
       "type": "project",
       "path": "../DataAccess/DataAccess.csproj",
@@ -4583,6 +4601,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Business >= 1.0.0",
       "DataAccess >= 1.0.0",
       "Entities >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 8.0.8",
@@ -4617,6 +4636,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "C:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\Business\\Business.csproj"
+            },
             "C:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\DataAccess\\DataAccess.csproj": {
               "projectPath": "C:\\Users\\trkbg\\Documents\\Projelerim\\CarAPP\\DataAccess\\DataAccess.csproj"
             },

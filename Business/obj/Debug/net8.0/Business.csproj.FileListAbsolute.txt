@@ -15,3 +15,4 @@ c:\Users\trkbg\Documents\Projelerim\CarAPP\Business\obj\Debug\net8.0\Business.dl
 c:\Users\trkbg\Documents\Projelerim\CarAPP\Business\obj\Debug\net8.0\refint\Business.dll
 c:\Users\trkbg\Documents\Projelerim\CarAPP\Business\obj\Debug\net8.0\Business.pdb
 C:\Users\trkbg\Documents\Projelerim\CarAPP\Business\obj\Debug\net8.0\ref\Business.dll
+c:\Users\trkbg\Documents\Projelerim\CarAPP\Business\obj\Debug\net8.0\Business.sourcelink.json
